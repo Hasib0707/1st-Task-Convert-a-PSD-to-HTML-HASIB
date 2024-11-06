@@ -890,6 +890,11 @@ span.heading-color-highlight {
 
 @media (max-width: 575.98px) { 
 
+  .navbar > .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   .hero {
     max-height: 800px;
   }
